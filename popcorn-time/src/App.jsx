@@ -1,15 +1,15 @@
-
-import { Footer } from "./components/Footer"
+import Footer from "./components/Footer"
 import Header from "./components/Header"
+import MovieList from "./components/MovieList"
 
-
-function App(){
+function App() {
   return (
     <>
-    <Header/>
-    <Footer/>
+      <Header />
+      <MovieList />
+      <Footer />
     </>
   )
-    
 }
+
 export default App
