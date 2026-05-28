@@ -1,3 +1,3 @@
 export default function Header() {
-    return <h1>Welcome to PopCorn App</h1>
+    return <h1>Welcome to PopCorn-Time</h1>
 }
